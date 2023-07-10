@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Chatbot from '../components/Chatbot';
+import { Chatbot } from '../components/Chatbot.js';
 
 export default function Home() {
   return (
